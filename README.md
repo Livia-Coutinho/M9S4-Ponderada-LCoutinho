@@ -67,6 +67,6 @@ Aplicação dos comandos:
 </br>
 - Hora de rodar o código
 ![image](https://github.com/Livia-Coutinho/M9S4-Ponderada-LCoutinho/assets/99189965/01d1271b-cd99-4f17-83b1-a5e056ec676e)
-![image](https://github.com/Livia-Coutinho/M9S4-Ponderada-LCoutinho/assets/99189965/a3c4cc17-d40f-400a-a075-2b469b4f6a08)
+![image](https://github.com/Livia-Coutinho/M9S4-Ponderada-LCoutinho/assets/99189965/c9381e16-567a-4853-8f6d-df0f4994b764)
 
 
